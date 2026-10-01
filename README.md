@@ -22,7 +22,7 @@
 ----
 ### CODE and INSTRUCTIONS
 
-- Upload the following code to your Arduino Board (or download here)
+- Upload the following code to your Arduino Board (or [download here](https://github.com/kingston-hackSpace/Piezoelectric_sensor/blob/main/piezoelectric_sensor.ino))
 
 ```
 int sensorOutput = A0; // Analog pin connected to the sensor
