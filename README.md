@@ -51,8 +51,7 @@ void loop() {
     digitalWrite(LED, LOW);
   }
 
-```
-
-
 delay (100);
 }
+
+```
